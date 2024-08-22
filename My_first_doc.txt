@@ -1,1 +1,3 @@
 First document to go onto my practice GitHub repository
+
+I'm now making changes and I don't want to overwrite someone else's work
